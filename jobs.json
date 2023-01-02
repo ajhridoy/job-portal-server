@@ -1,0 +1,98 @@
+[
+    {
+        "title": "front-end engineer",
+        "categoryName": "Frontend Developer Jobs",
+        "companyName": "tech-bd",
+        "location": "Dhaka",
+        "skill": "HTML, CSS, JavaScript, React.js, Redux, Next.js",
+        "ctc": 4
+    },
+    {
+        "title": "front-end Developer",
+        "categoryName": "Frontend Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "HTML, CSS, JavaScript, React.js",
+        "ctc": 2.5
+    },
+    {
+        "title": "React Developer",
+        "categoryName": "React Developer Jobs",
+        "companyName": "tch-hubs",
+        "location": "Khulna",
+        "skill": "HTML, CSS, JavaScript, React.js",
+        "ctc": 3
+    },
+    {
+        "title": "React.js Developer",
+        "categoryName": "React Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "CSS, JavaScript, React.js, Redux",
+        "ctc": 3.5
+    },
+    {
+        "title": "JavaScript Developer",
+        "categoryName": "JavaScript Developer Jobs",
+        "companyName": "tech solution bd",
+        "location": "Barishal",
+        "skill": "CSS, Bootstrap, JavaScript",
+        "ctc": 3.5
+    },
+    {
+        "title": "JavaScript Developer",
+        "categoryName": "JavaScript Developer Jobs",
+        "companyName": "salmon.co",
+        "location": "Tangail",
+        "skill": "HTML,CSS, Tailwind JavaScript,",
+        "ctc": 4
+    },
+    {
+        "title": "Mern-stack Developer",
+        "categoryName": "MERN Stack Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "React, Node, Express, MongoDB",
+        "ctc": 2.8
+    },
+    {
+        "title": "Mern Developer",
+        "categoryName": "MERN Stack Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "Tailwind, React, Node, Express, MongoDB",
+        "ctc": 3.5
+    },
+    {
+        "title": "Backend Developer",
+        "categoryName": "Backend Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "Node, Express, MongoDB, Pythone",
+        "ctc": 3.5
+    },
+    {
+        "title": "Backend experience Developer",
+        "categoryName": "Backend Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "HTML,CSS, Tailwind JavaScript,Pythone, GraphQL",
+        "ctc": 3.5
+    },
+    {
+        "title": "Naode Developer",
+        "categoryName": "Node.js Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "Node.js",
+        "ctc": 3.5
+    },
+    {
+        "title": "Node.js Developer",
+        "categoryName": "Node.js Developer Jobs",
+        "companyName": "insight-tech",
+        "location": "Rajshahi",
+        "skill": "Node.js, express.js",
+        "ctc": 3.5
+    }
+]
